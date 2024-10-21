@@ -8,5 +8,5 @@ import mdx from '@astrojs/mdx';
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), mdx()],
-  site: 'https://astrojs.org',
+  site: 'https://lucas-blog-astro.netlify.app/',
 });
